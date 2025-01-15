@@ -1,1 +1,4 @@
 * Projet AOC
+
+- Jour 01: il faut récupérer les fichiers d'input;
+- Jour 02: il faut récupérer les fichiers d'input;
